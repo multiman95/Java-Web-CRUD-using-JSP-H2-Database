@@ -1,4 +1,4 @@
-# Java-Web-CRUD-using-JSP-H2-Database
+# Java-Web-CRUD-using-Eclipse-JSP-H2-Database
 This Repo is a tutorial showing us how to create Java Web App CRUD System using Eclipse IDE, JSP & H2 Database.
 
 Other UI Frameworks used in the tutorial includes Bootstrap 5 & DaisyUI
